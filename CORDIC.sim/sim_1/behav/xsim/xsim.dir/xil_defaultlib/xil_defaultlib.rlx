@@ -1,0 +1,12 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/dwigh/Xilinx/CORDIC/CORDIC.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/dwigh/Xilinx/CORDIC/CORDIC.srcs/sim_1/new/tb_CORDIC.v,1632943192,verilog,,,,tb_CORDIC,,,,,,,,
+C:/Users/dwigh/Xilinx/CORDIC/CORDIC.srcs/sim_1/new/tb_LookUpTable.v,1632767188,verilog,,,,tb_LookUpTable,,,,,,,,
+C:/Users/dwigh/Xilinx/CORDIC/CORDIC.srcs/sources_1/new/CORDIC.v,1632943985,verilog,,C:/Users/dwigh/Xilinx/CORDIC/CORDIC.srcs/sources_1/new/CalculateXYZ.v,,CORDIC,,,,,,,,
+C:/Users/dwigh/Xilinx/CORDIC/CORDIC.srcs/sources_1/new/CalculateXYZ.v,1632772441,verilog,,C:/Users/dwigh/Xilinx/CORDIC/CORDIC.srcs/sources_1/new/DFlipFlop.v,,CalculateX;CalculateY;CalculateZ,,,,,,,,
+C:/Users/dwigh/Xilinx/CORDIC/CORDIC.srcs/sources_1/new/DFlipFlop.v,1632768384,verilog,,C:/Users/dwigh/Xilinx/CORDIC/CORDIC.srcs/sources_1/new/LookUpTable.v,,DFlipFlop;XFlipFlop,,,,,,,,
+C:/Users/dwigh/Xilinx/CORDIC/CORDIC.srcs/sources_1/new/LookUpTable.v,1632771790,verilog,,C:/Users/dwigh/Xilinx/CORDIC/CORDIC.srcs/sources_1/new/SetDI.v,,LookUpTable,,,,,,,,
+C:/Users/dwigh/Xilinx/CORDIC/CORDIC.srcs/sources_1/new/SetDI.v,1632771941,verilog,,C:/Users/dwigh/Xilinx/CORDIC/CORDIC.srcs/sim_1/new/tb_CORDIC.v,,SetDI,,,,,,,,
